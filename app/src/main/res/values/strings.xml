@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Team06</string>
+    <string name="odds_button">ODDS</string>
+    <string name="evens_button">EVENS</string>
+    <string name="view_odds">Odd numbers</string>
+    <string name="view_evens">Even numbers</string>
+</resources>
