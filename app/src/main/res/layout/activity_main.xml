@@ -36,6 +36,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="36dp"
         android:hint="@string/odds_button"
+        android:onClick="odds"
+        android:text="Odds"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="188dp" />
 
@@ -45,6 +47,8 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="36dp"
         android:hint="@string/evens_button"
+        android:onClick="evens"
+        android:text="Evens"
         app:layout_constraintEnd_toEndOf="parent"
         tools:layout_editor_absoluteY="184dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
